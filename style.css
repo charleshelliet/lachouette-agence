@@ -691,7 +691,6 @@ p {
 }
 
 .cta-hero {
-    margin-top: 22px;
     color: #FFFFFF!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
@@ -753,7 +752,8 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color:#000000;
+    opacity: 0.65;
     padding: 40px 40px 40px 40px;
 }
 
